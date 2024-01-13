@@ -9,9 +9,9 @@ let handler = async (m, { conn }) => {
         let txt = `
 ╭───❮ *𝙻𝙴𝚅𝙴𝙻* ❯
 │ *👤Name* : *${name}*
-│ *📍Level*: *${user.level}*
+│ *🍀Level*: *${user.level}*
 │ *🛑XP* : *${user.exp - min}/${xp}*
-│ *🐉Role* : *${user.role}*
+│ *🏅Role* : *${user.role}*
 ╰────────────
 
 You Lack *${max - user.exp}* Of *XP* To Level Up
