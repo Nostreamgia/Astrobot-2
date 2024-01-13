@@ -7,7 +7,7 @@ const items = {
         potion: {
             money: 1250,
         },
-        trash: {
+        fish: {
             money: 4,
         },
         wood: {
@@ -27,7 +27,7 @@ const items = {
         potion: {
             money: 125,
         },
-        trash: {
+        fish: {
             money: 2
         },
         wood: {
